@@ -22,4 +22,5 @@ gcc main.c -o main -lglut -lGLU -lGL -lm
 ./main
 ```
 
+特定のDEM及びGPXファイルにしか対応しておらず汎用性はありません。
 2022年3月6日公開
