@@ -21,3 +21,5 @@
 gcc main.c -o main -lglut -lGLU -lGL -lm
 ./main
 ```
+
+2022年3月6日公開
